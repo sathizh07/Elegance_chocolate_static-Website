@@ -26,7 +26,7 @@ Open the File:
 
 Open index.html directly in your web browser.
 (Optional) Deploy to AWS S3 + CloudFront:
-Upload index.html to your S3 bucket.
+Upload S3Website to your S3 bucket.
 Set up CloudFront for global distribution
 Enjoy your luxury chocolate showcase live!
 
