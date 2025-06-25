@@ -24,9 +24,9 @@ bash
 git clone https://github.com/yourusername/elegance-chocolat.git
 Open the File:
 
-Open index.html directly in your web browser.
-(Optional) Deploy to AWS S3 + CloudFront:
-Upload S3Website to your S3 bucket.
+Open S3website.html directly in your web browser And Download it.
+Upload S3Website to your S3 bucket and Enable static Website hosting in Bucket Permission.
+Add bucket policy to the S3 bucket to allow public read access for static website hosting.
 Set up CloudFront for global distribution
 Enjoy your luxury chocolate showcase live!
 
